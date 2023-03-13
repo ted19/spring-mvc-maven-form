@@ -1,4 +1,4 @@
-Spring MVC form handling example (Maven, HSQLDB, JSP)
+Spring MVC form handling (Maven, HSQLDB, JSP)
 ===============================
 
 This is the source code for Spring MVC form handling example.
