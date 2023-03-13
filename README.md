@@ -25,7 +25,7 @@ _P.S This tutorial is NOT a Spring Boot application, just pure Spring Web MVC!_
 ```shell
 $ git clone https://github.com/ted19/spring-mvc-maven-form/
 
-$ cd spring-mvc-form
+$ cd spring-mvc-maven-form
 
 $ mvn jetty:run
 
