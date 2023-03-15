@@ -33,11 +33,11 @@
             <version>${spring.version}</version>
         </dependency>
 
-		<dependency>
-			<groupId>jakarta.validation</groupId>
-			<artifactId>jakarta.validation-api</artifactId>
-			<version>${validation-api.version}</version>
-		</dependency>
+	<dependency>
+	    <groupId>jakarta.validation</groupId>
+	    <artifactId>jakarta.validation-api</artifactId>
+	    <version>${validation-api.version}</version>
+	</dependency>
 
         <!-- Spring JDBC -->
         <dependency>
@@ -118,10 +118,10 @@
     </dependencies>
     <build>
         <plugins>
-			<plugin>
-  				<artifactId>maven-war-plugin</artifactId>
-  				<version>3.2.2</version>
-			</plugin>
+	    <plugin>
+  	        <artifactId>maven-war-plugin</artifactId>
+  		<version>3.2.2</version>
+	    </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
